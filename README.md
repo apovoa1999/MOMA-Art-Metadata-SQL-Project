@@ -1,4 +1,4 @@
-# MoMA Art Metadata Service (PostgreSQL) 🎨
+# MoMA Art Metadata Service (PostgreSQL) 
 
 This project demonstrates the design and implementation of a fully normalized relational database system to manage the metadata for a large art collection, modeled after the structure of the Museum of Modern Art (MoMA) collection data.
 
